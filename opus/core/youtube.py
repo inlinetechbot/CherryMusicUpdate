@@ -28,9 +28,9 @@ except ImportError:
 # OpusKey1, OpusKey2, OpusKey3 ... set karo. URL secret nahi hai isliye
 # yahin rakha hai.
 API_URLS = [
-    "https://opusytapi.onrender.com",
-    "https://opusytapi.onrender.com",
-    "https://opusytapi.onrender.com",
+    "https://opusytapi-5xd4.onrender.com",
+    "https://opusytapi-5xd4.onrender.com",
+    "https://opusytapi-5xd4.onrender.com",
 ]
 
 
