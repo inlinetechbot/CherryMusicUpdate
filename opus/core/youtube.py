@@ -58,7 +58,7 @@ if not APIS:
     logger.warning("Koi OpusKey set nahi hai, sirf yt-dlp fallback chalega.")
 
 FAIL_THRESHOLD = 3
-BLOCK_DURATION = 10 * 60  # 10 minutes
+BLOCK_DURATION = 1 * 60  # 10 minutes
 
 # API naye gaane ko ~15-60s me ready karti hai (Render free pe slow ho sakti hai).
 # Pehle total=60 tha, to slow response bhi "fail" ginti thi aur API block ho jaati thi.
